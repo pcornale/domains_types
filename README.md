@@ -1,0 +1,1 @@
+12003 different domains divided into nine kinds: massmedia, newspapers, socialmedia, wikimedia, gov_un (governmental (ending with ".gov") plus domains from UN), scientific_aggregators, scientific_journals, scientific_magazines, scientific_preprints
